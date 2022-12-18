@@ -11,5 +11,6 @@ To simulate low memory constraints, your program should work with node --max_old
 
 # Exemple
 > node --max_old_space_size=50 solution.js 62359 
+> 
 > Damon Jerde // logged to the console
 
